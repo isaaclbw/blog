@@ -1,17 +1,38 @@
 [
   {
-    "objectID": "posts/welcome/index.html",
-    "href": "posts/welcome/index.html",
-    "title": "Welcome To My Blog",
+    "objectID": "posts/the-youth-premium/main.html",
+    "href": "posts/the-youth-premium/main.html",
+    "title": "The Youth Premium",
     "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+    "text": "Write your introduction here. This template includes the standard setup for importing blog utilities and common patterns you might use.\n\n\nReplace this section with your actual content. Here are some examples of using the blog utilities:\n\n# Example: Create an info callout\ncreate_callout(\n    \"This is an example callout. Replace with your own content.\",\n    callout_type=\"note\",\n    title=\"Example Note\"\n)\n\n\n    \n        \n            \n                \n            \n            \n                Example Note\n            \n        \n        \n            This is an example callout. Replace with your own content.\n        \n    \n    \n\n\n\n# Example: Create a success alert box\ncreate_alert_box(\n    \"This is an example success message. Use these for important highlights.\",\n    alert_type=\"success\",\n    title=\"Key Insight\"\n)\n\n\n    \n        Key InsightThis is an example success message. Use these for important highlights.\n        \n    \n    \n\n\n\n# Example: Embed a responsive iframe\n# create_responsive_iframe(\"https://example.com\", aspect_ratio=0.6)\n# Uncomment and replace URL when needed\n\n\n\n\nAdd your data analysis, visualizations, and insights here.\n\n\n\n\n\n\n\n\n\n\n\n\nSummarize your findings and key takeaways here.\n\n# Final thoughts or additional resources\ncreate_callout(\n    \"Add your concluding thoughts or call-to-action here.\",\n    callout_type=\"tip\",\n    title=\"Next Steps\"\n)\n\n\n    \n        \n            \n                \n            \n            \n                Next Steps\n            \n        \n        \n            Add your concluding thoughts or call-to-action here."
+  },
+  {
+    "objectID": "posts/the-youth-premium/main.html#your-content-here",
+    "href": "posts/the-youth-premium/main.html#your-content-here",
+    "title": "The Youth Premium",
+    "section": "",
+    "text": "Replace this section with your actual content. Here are some examples of using the blog utilities:\n\n# Example: Create an info callout\ncreate_callout(\n    \"This is an example callout. Replace with your own content.\",\n    callout_type=\"note\",\n    title=\"Example Note\"\n)\n\n\n    \n        \n            \n                \n            \n            \n                Example Note\n            \n        \n        \n            This is an example callout. Replace with your own content.\n        \n    \n    \n\n\n\n# Example: Create a success alert box\ncreate_alert_box(\n    \"This is an example success message. Use these for important highlights.\",\n    alert_type=\"success\",\n    title=\"Key Insight\"\n)\n\n\n    \n        Key InsightThis is an example success message. Use these for important highlights.\n        \n    \n    \n\n\n\n# Example: Embed a responsive iframe\n# create_responsive_iframe(\"https://example.com\", aspect_ratio=0.6)\n# Uncomment and replace URL when needed"
+  },
+  {
+    "objectID": "posts/the-youth-premium/main.html#data-analysis-section",
+    "href": "posts/the-youth-premium/main.html#data-analysis-section",
+    "title": "The Youth Premium",
+    "section": "",
+    "text": "Add your data analysis, visualizations, and insights here."
+  },
+  {
+    "objectID": "posts/the-youth-premium/main.html#conclusion",
+    "href": "posts/the-youth-premium/main.html#conclusion",
+    "title": "The Youth Premium",
+    "section": "",
+    "text": "Summarize your findings and key takeaways here.\n\n# Final thoughts or additional resources\ncreate_callout(\n    \"Add your concluding thoughts or call-to-action here.\",\n    callout_type=\"tip\",\n    title=\"Next Steps\"\n)\n\n\n    \n        \n            \n                \n            \n            \n                Next Steps\n            \n        \n        \n            Add your concluding thoughts or call-to-action here."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Blog",
     "section": "",
-    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\nnews\n\ncode\n\nanalysis\n\n\n\n\n\n\n\n\n\nJul 18, 2025\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nJul 15, 2025\n\n\nTristan O’Malley\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\nBlogging Module Guide\n\n\n\n\n\n\nIsaac Beight-Welland\n\n\nInvalid Date\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe Youth Premium\n\n\n\neconomics\n\nanalysis\n\ncode\n\n\n\nAn analysis of the impact of changing business strategy in response to artificial intelligence on youth employment.\n\n\n\nIsaac B. Welland\n\n\nJul 19, 2025\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about.html",
@@ -21,10 +42,94 @@
     "text": "About this blog"
   },
   {
-    "objectID": "posts/post-with-code/index.html",
-    "href": "posts/post-with-code/index.html",
-    "title": "Post With Code",
+    "objectID": "posts/Blog Utils Reference.html",
+    "href": "posts/Blog Utils Reference.html",
+    "title": "Blogging Module Guide",
     "section": "",
-    "text": "This is a post with executable code."
+    "text": "Complete reference for all functions in blog_utils.py - your comprehensive toolkit for creating rich, interactive blog content.\n\n\n# Add this to the beginning of your notebooks\nimport sys\nimport os\nposts_dir = os.path.dirname(os.getcwd())\nif posts_dir not in sys.path:\n    sys.path.insert(0, posts_dir)\n\nfrom blog_utils import *\n\n\n\n\n\ncreate_callout(\"Your message\", callout_type=\"note\", title=\"Custom Title\")\n# Types: \"note\", \"tip\", \"warning\", \"caution\", \"important\"\n# Optional: collapsible=True, collapsed=True\n\n\n\ncreate_alert_box(\"Alert message\", alert_type=\"success\", title=\"Success!\")\n# Types: \"info\", \"success\", \"warning\", \"danger\", \"primary\", \"secondary\"\n# Optional: dismissible=True\n\n\n\ncreate_info_box(\"Custom message\", icon=\"💡\", background_color=\"#fff3cd\")\n\n\n\n\n\n\nembed_youtube(\"dQw4w9WgXcQ\")\n# Optional: start_time=30, autoplay=True, controls=False\n\n\n\ncreate_responsive_iframe(\"https://example.com\", aspect_ratio=0.5625)\n# Perfect for embedding interactive content\n\n\n\nembed_vimeo(\"123456789\")\nembed_twitter_tweet(\"https://twitter.com/user/status/123\")\nembed_codepen(\"abc123\", \"username\")\nembed_plotly_chart(\"https://plotly.com/~user/chart.embed\")\n\n\n\n\n\n\ncreate_styled_table(df, title=\"My Data\", max_rows=10)\n# Features: striped=True, hover=True, responsive=True\n\n\n\ncreate_summary_stats(df, columns=[\"col1\", \"col2\"])\n# Automatically formats describe() output\n\n\n\ndata = {\"Method A\": [95, 87, 92], \"Method B\": [88, 91, 89]}\ncreate_comparison_table(data, highlight_best=True)\n\n\n\n\n\n\ntabs = {\n    \"Overview\": \"&lt;p&gt;Overview content&lt;/p&gt;\",\n    \"Details\": \"&lt;p&gt;Detailed information&lt;/p&gt;\",\n    \"Code\": \"&lt;pre&gt;code here&lt;/pre&gt;\"\n}\ncreate_tabs(tabs)\n\n\n\nsections = {\n    \"Section 1\": \"Content for section 1\",\n    \"Section 2\": \"Content for section 2\"\n}\ncreate_accordion(sections, allow_multiple=True)\n\n\n\n\n\n\ncreate_progress_bar(75, max_value=100, label=\"75% Complete\", color=\"success\")\n# Colors: \"primary\", \"success\", \"info\", \"warning\", \"danger\"\n# Optional: striped=True, animated=True\n\n\n\ncreate_metric_card(\n    title=\"Revenue\",\n    value=\"$125K\",\n    change=\"+12.5%\",\n    change_type=\"positive\",\n    icon=\"💰\"\n)\n\n\n\n\n\n\nevents = [\n    {\"date\": \"2024-01\", \"title\": \"Project Start\", \"description\": \"Initial planning\"},\n    {\"date\": \"2024-06\", \"title\": \"Milestone 1\", \"description\": \"First deliverable\"}\n]\ncreate_timeline(events, title=\"Project Timeline\")\n\n\n\ncreate_quote_block(\n    \"The best time to plant a tree was 20 years ago. The second best time is now.\",\n    author=\"Chinese Proverb\"\n)\n\n\n\ncreate_button_link(\"Visit Site\", \"https://example.com\", style=\"primary\", size=\"lg\")\n# Styles: \"primary\", \"secondary\", \"success\", \"info\", \"warning\", \"danger\"\n# Sizes: \"sm\", \"md\", \"lg\"\n\n\n\ncreate_code_block(\n    \"def hello():\\n    print('Hello World')\",\n    language=\"python\",\n    title=\"Example Function\"\n)\n\n\n\ncreate_two_column_layout(\n    left_content=\"&lt;h4&gt;Left Side&lt;/h4&gt;&lt;p&gt;Content here&lt;/p&gt;\",\n    right_content=\"&lt;h4&gt;Right Side&lt;/h4&gt;&lt;p&gt;More content&lt;/p&gt;\",\n    left_width=8,\n    right_width=4\n)\n\n\n\nimages = [\n    {\"src\": \"image1.jpg\", \"alt\": \"Description\", \"caption\": \"Image 1\"},\n    {\"src\": \"image2.jpg\", \"alt\": \"Description\", \"caption\": \"Image 2\"}\n]\ncreate_image_gallery(images, columns=2, title=\"My Gallery\")\n\n\n\n\nFor common use cases, use these shortcuts:\nquick_note(\"This is a note\")\nquick_tip(\"Pro tip: Use shortcuts!\")\nquick_warning(\"Be careful here\")\nquick_success(\"Great job!\")\nquick_info(\"FYI: This is useful\")\n\nquick_youtube(\"dQw4w9WgXcQ\")\nquick_iframe(\"https://example.com\")\nquick_quote(\"Life is what happens when you're busy making other plans\", \"John Lennon\")\n\n\n\n\n\n\nPrimary: Blue theme (default)\nSuccess: Green for positive actions\nWarning: Yellow for cautions\nDanger: Red for errors/alerts\nInfo: Light blue for information\nSecondary: Gray for neutral content\n\n\n\n\nAll components are mobile-friendly and will adapt to different screen sizes automatically.\n\n\n\nMost functions accept custom styling parameters. Check the function docstrings for all available options.\n\n\n\n\n\nUse semantic colors - Success for achievements, warning for cautions\nKeep content scannable - Use callouts and alerts to highlight key points\nOptimize media - Use appropriate aspect ratios for embedded content\nTest responsiveness - Preview on different screen sizes\nCombine components - Mix tables, charts, and callouts for rich content\n\n\n\n\nImport Issues: Make sure the path setup code runs first Styling Problems: Check that Bootstrap CSS is loaded in your Quarto theme Media Not Loading: Verify URLs are accessible and properly formatted\n\n\n\nCheck the _template directory for a complete example notebook showing these utilities in use!"
+  },
+  {
+    "objectID": "posts/Blog Utils Reference.html#quick-import-setup",
+    "href": "posts/Blog Utils Reference.html#quick-import-setup",
+    "title": "Blogging Module Guide",
+    "section": "",
+    "text": "# Add this to the beginning of your notebooks\nimport sys\nimport os\nposts_dir = os.path.dirname(os.getcwd())\nif posts_dir not in sys.path:\n    sys.path.insert(0, posts_dir)\n\nfrom blog_utils import *"
+  },
+  {
+    "objectID": "posts/Blog Utils Reference.html#callouts-alerts",
+    "href": "posts/Blog Utils Reference.html#callouts-alerts",
+    "title": "Blogging Module Guide",
+    "section": "",
+    "text": "create_callout(\"Your message\", callout_type=\"note\", title=\"Custom Title\")\n# Types: \"note\", \"tip\", \"warning\", \"caution\", \"important\"\n# Optional: collapsible=True, collapsed=True\n\n\n\ncreate_alert_box(\"Alert message\", alert_type=\"success\", title=\"Success!\")\n# Types: \"info\", \"success\", \"warning\", \"danger\", \"primary\", \"secondary\"\n# Optional: dismissible=True\n\n\n\ncreate_info_box(\"Custom message\", icon=\"💡\", background_color=\"#fff3cd\")"
+  },
+  {
+    "objectID": "posts/Blog Utils Reference.html#media-embeds",
+    "href": "posts/Blog Utils Reference.html#media-embeds",
+    "title": "Blogging Module Guide",
+    "section": "",
+    "text": "embed_youtube(\"dQw4w9WgXcQ\")\n# Optional: start_time=30, autoplay=True, controls=False\n\n\n\ncreate_responsive_iframe(\"https://example.com\", aspect_ratio=0.5625)\n# Perfect for embedding interactive content\n\n\n\nembed_vimeo(\"123456789\")\nembed_twitter_tweet(\"https://twitter.com/user/status/123\")\nembed_codepen(\"abc123\", \"username\")\nembed_plotly_chart(\"https://plotly.com/~user/chart.embed\")"
+  },
+  {
+    "objectID": "posts/Blog Utils Reference.html#data-display",
+    "href": "posts/Blog Utils Reference.html#data-display",
+    "title": "Blogging Module Guide",
+    "section": "",
+    "text": "create_styled_table(df, title=\"My Data\", max_rows=10)\n# Features: striped=True, hover=True, responsive=True\n\n\n\ncreate_summary_stats(df, columns=[\"col1\", \"col2\"])\n# Automatically formats describe() output\n\n\n\ndata = {\"Method A\": [95, 87, 92], \"Method B\": [88, 91, 89]}\ncreate_comparison_table(data, highlight_best=True)"
+  },
+  {
+    "objectID": "posts/Blog Utils Reference.html#interactive-elements",
+    "href": "posts/Blog Utils Reference.html#interactive-elements",
+    "title": "Blogging Module Guide",
+    "section": "",
+    "text": "tabs = {\n    \"Overview\": \"&lt;p&gt;Overview content&lt;/p&gt;\",\n    \"Details\": \"&lt;p&gt;Detailed information&lt;/p&gt;\",\n    \"Code\": \"&lt;pre&gt;code here&lt;/pre&gt;\"\n}\ncreate_tabs(tabs)\n\n\n\nsections = {\n    \"Section 1\": \"Content for section 1\",\n    \"Section 2\": \"Content for section 2\"\n}\ncreate_accordion(sections, allow_multiple=True)"
+  },
+  {
+    "objectID": "posts/Blog Utils Reference.html#progress-metrics",
+    "href": "posts/Blog Utils Reference.html#progress-metrics",
+    "title": "Blogging Module Guide",
+    "section": "",
+    "text": "create_progress_bar(75, max_value=100, label=\"75% Complete\", color=\"success\")\n# Colors: \"primary\", \"success\", \"info\", \"warning\", \"danger\"\n# Optional: striped=True, animated=True\n\n\n\ncreate_metric_card(\n    title=\"Revenue\",\n    value=\"$125K\",\n    change=\"+12.5%\",\n    change_type=\"positive\",\n    icon=\"💰\"\n)"
+  },
+  {
+    "objectID": "posts/Blog Utils Reference.html#utility-components",
+    "href": "posts/Blog Utils Reference.html#utility-components",
+    "title": "Blogging Module Guide",
+    "section": "",
+    "text": "events = [\n    {\"date\": \"2024-01\", \"title\": \"Project Start\", \"description\": \"Initial planning\"},\n    {\"date\": \"2024-06\", \"title\": \"Milestone 1\", \"description\": \"First deliverable\"}\n]\ncreate_timeline(events, title=\"Project Timeline\")\n\n\n\ncreate_quote_block(\n    \"The best time to plant a tree was 20 years ago. The second best time is now.\",\n    author=\"Chinese Proverb\"\n)\n\n\n\ncreate_button_link(\"Visit Site\", \"https://example.com\", style=\"primary\", size=\"lg\")\n# Styles: \"primary\", \"secondary\", \"success\", \"info\", \"warning\", \"danger\"\n# Sizes: \"sm\", \"md\", \"lg\"\n\n\n\ncreate_code_block(\n    \"def hello():\\n    print('Hello World')\",\n    language=\"python\",\n    title=\"Example Function\"\n)\n\n\n\ncreate_two_column_layout(\n    left_content=\"&lt;h4&gt;Left Side&lt;/h4&gt;&lt;p&gt;Content here&lt;/p&gt;\",\n    right_content=\"&lt;h4&gt;Right Side&lt;/h4&gt;&lt;p&gt;More content&lt;/p&gt;\",\n    left_width=8,\n    right_width=4\n)\n\n\n\nimages = [\n    {\"src\": \"image1.jpg\", \"alt\": \"Description\", \"caption\": \"Image 1\"},\n    {\"src\": \"image2.jpg\", \"alt\": \"Description\", \"caption\": \"Image 2\"}\n]\ncreate_image_gallery(images, columns=2, title=\"My Gallery\")"
+  },
+  {
+    "objectID": "posts/Blog Utils Reference.html#quick-helpers",
+    "href": "posts/Blog Utils Reference.html#quick-helpers",
+    "title": "Blogging Module Guide",
+    "section": "",
+    "text": "For common use cases, use these shortcuts:\nquick_note(\"This is a note\")\nquick_tip(\"Pro tip: Use shortcuts!\")\nquick_warning(\"Be careful here\")\nquick_success(\"Great job!\")\nquick_info(\"FYI: This is useful\")\n\nquick_youtube(\"dQw4w9WgXcQ\")\nquick_iframe(\"https://example.com\")\nquick_quote(\"Life is what happens when you're busy making other plans\", \"John Lennon\")"
+  },
+  {
+    "objectID": "posts/Blog Utils Reference.html#styling-tips",
+    "href": "posts/Blog Utils Reference.html#styling-tips",
+    "title": "Blogging Module Guide",
+    "section": "",
+    "text": "Primary: Blue theme (default)\nSuccess: Green for positive actions\nWarning: Yellow for cautions\nDanger: Red for errors/alerts\nInfo: Light blue for information\nSecondary: Gray for neutral content\n\n\n\n\nAll components are mobile-friendly and will adapt to different screen sizes automatically.\n\n\n\nMost functions accept custom styling parameters. Check the function docstrings for all available options."
+  },
+  {
+    "objectID": "posts/Blog Utils Reference.html#best-practices",
+    "href": "posts/Blog Utils Reference.html#best-practices",
+    "title": "Blogging Module Guide",
+    "section": "",
+    "text": "Use semantic colors - Success for achievements, warning for cautions\nKeep content scannable - Use callouts and alerts to highlight key points\nOptimize media - Use appropriate aspect ratios for embedded content\nTest responsiveness - Preview on different screen sizes\nCombine components - Mix tables, charts, and callouts for rich content"
+  },
+  {
+    "objectID": "posts/Blog Utils Reference.html#troubleshooting",
+    "href": "posts/Blog Utils Reference.html#troubleshooting",
+    "title": "Blogging Module Guide",
+    "section": "",
+    "text": "Import Issues: Make sure the path setup code runs first Styling Problems: Check that Bootstrap CSS is loaded in your Quarto theme Media Not Loading: Verify URLs are accessible and properly formatted"
+  },
+  {
+    "objectID": "posts/Blog Utils Reference.html#examples-in-action",
+    "href": "posts/Blog Utils Reference.html#examples-in-action",
+    "title": "Blogging Module Guide",
+    "section": "",
+    "text": "Check the _template directory for a complete example notebook showing these utilities in use!"
   }
 ]

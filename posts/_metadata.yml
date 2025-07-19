@@ -6,3 +6,10 @@ freeze: true
 
 # Enable banner style title blocks
 title-block-banner: true
+
+# Add navigation back to home
+title-block:
+  left:
+    - text: "← Back to Home"
+      href: "../index.html"
+

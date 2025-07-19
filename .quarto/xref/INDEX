@@ -10,5 +10,20 @@
   },
   "posts/welcome/index.qmd": {
     "index.html": "a0e4d436"
+  },
+  "posts/youth-unemployment/main.ipynb": {
+    "main.html": "24613b2d"
+  },
+  "posts/IMPORT_SOLUTIONS.md": {
+    "IMPORT_SOLUTIONS.html": "d4622b28"
+  },
+  "posts/BLOG_UTILS_REFERENCE.md": {
+    "BLOG_UTILS_REFERENCE.html": "a9d2ff5f"
+  },
+  "posts/Blog Utils Reference.md": {
+    "Blog Utils Reference.html": "67a50374"
+  },
+  "posts/the-youth-premium/main.ipynb": {
+    "main.html": "d4480bc4"
   }
 }
